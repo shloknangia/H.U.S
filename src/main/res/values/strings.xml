@@ -1,0 +1,125 @@
+<resources>
+    <string name="app_name">H.U.S</string>
+
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello World</string>
+
+    <string name="form1">Employee Form</string>
+    <string name="form2">Employer Form</string>
+
+    <string name="name">Name:</string>
+    <string name="name_hint">Your Name Goes Here</string>
+    <string name="organisation">Organisation:</string>
+    <string name="org_hint">Company/Organisation You Work For</string>
+    <string name="org_hint2">Company/Organisation You Own</string>
+    <string name="cur_sal">Current Salary:</string>
+    <string name="curr_sal_hint">Your Current Salary Goes Here</string>
+    <string name="join_sal">Joining Salary:</string>
+    <string name="join_sal_hint">Your Joining Salary Goes Here</string>
+    <string name="rs">In Rupees</string>
+    <string name="inc">Monthly Increment (if any):</string>
+    <string name="header2">Employer Information</string>
+    <string name="header1">Employee Information</string>
+    <string name="emp_no">Number Of Employees:</string>
+    <string name="emp_no_hint">Number Of Employees in Your Organisation</string>
+    <string name="income">Income:</string>
+    <string name="inc_hint">Organisation Income</string>
+
+    <string name="opt1">Enterprise / Employer</string>
+    <string name="opt2">Workers / Employee</string>
+    <string name="opt3">Self Employed Worker</string>
+
+    <string name="about" formatted="false">Unorganised-Sector Problem Over 94% of India’s working population is part of unorganized sector. The unorganized sector has low productivity and offers low wages, even though It accounted for over 94% of worker.</string>
+    <string name="about2">Due to this, problem is faced by everyone (Employees, employers, the Government). Most of the time people are not aware of their rights and benefits/schemes provided by government.</string>
+    <string name="about3">This app helps both the parties by informing their rights and benefits of being Organised.</string>
+
+    <!--<string name="about">Unorganised-Sector Problem Over 94% of India’s working population is part of unorganized sector. The unorganized sector has low productivity and offers low wages, even though It accounted for over 94% of worker.</string>-->
+
+    <!--<string name="about2">Due to this problem is faced by everyone (Employees, employers, the Government). Most of the time people are not aware of their rights and benefits/schemes provided by government.</string>-->
+    <!--<string name="about3">This app helps Both the parties By informing their rights and Benefits of being Organised.</string>-->
+
+    <string name="category">Choose your category</string>
+    <string name="next">Next</string>
+
+    <string name="self_text">ABCD</string>
+    
+    <string name="intro">The Ministry of Labour, Government of India, has categorised the unorganised labour force under four groups 
+        depending on occupation, nature of employment, specially distressed categories and service categories.</string>
+    
+    <string name="intro1">Under Terms of Occupation: Small and marginal farmers, landless agricultural labourers,
+        share croppers, fishermen, those engaged in animal husbandry,
+        beedi rolling, labelling and packing, building and construction workers, leather workers, weavers, artisans,
+        salt workers, workers in brick kilns and stone quarries, workers in saw mills,
+        oil mills, etc. come under this category.</string>
+
+    <string name="intro3">Under Terms of Nature of Employment:
+        Attached agricultural labourers, bonded labourers, migrant workers, contract and casual labourers come under this category.</string>
+
+    <string name="intro4">Under Terms of Specially Distressed Category:
+        Toddy tappers, scavengers, carriers of head loads,
+        drivers of animal driven vehicles, loaders and unloaders come under this category.</string>
+
+    <string name="intro2">Under Terms of Service Category:
+        Midwives, domestic workers, fishermen and women, barbers, vegetable and fruit vendors,
+        newspaper vendors, etc., belong to this category.</string>
+
+    <string name="scheme1">The Unorganised Workers Social Security Act 2008</string>
+    <string name="scheme2">The Unorganised Workers Social Security Rules 2008</string>
+    <string name="scheme3">Aam Admi Bima Yojna</string>
+    <string name="scheme4">Rashtriya Swasthya Bima Yojna</string>
+
+    <string name="proceed">Proceed</string>
+
+    <string name="stats1">Currently, the number of scheduled employments in the Central sphere is 45
+        whereas in the States sphere the number is 1650 (when all states are counted). With effect from November 2009,
+        the National Floor Level of Minimum Wage has been increased to Rs 137 to Rs 100 per day (which was in effect since 2007).</string>
+
+    <string name="emp1">As an employer, one of the advantages of dealing with a labor union is
+        that it simplifies the negotiations process. When you deal with a labor union, you do not
+        have to negotiate with multiple employees. You simply talk to the head of the labor union
+        and the head of the union speaks for all of the workforce.
+        By doing this, you can negotiate faster and more efficiently without having to worry about
+        meeting with many different employees.</string>
+
+    <string name="emp2">Another advantage of labor unions for organizations is that they lead to less turnover.
+        When you have a workforce that is comprised of labor union members, they will not leave their jobs as frequently.
+        They have to pay dues to be a part of the union, and they typically do not want to lose their position in the organization.
+        When you have lower levels of turnover, it saves your business money in the long run by not having to
+        train as many new employees.</string>
+
+    <string name="emp3">Another advantage of dealing with labor unions is that it can improve employee satisfaction.
+        When employees deal with unions, they may be more satisfied because they have a voice to speak to the employer.
+        They get higher wages on average and better benefits packages. When you meet the needs of the employees better,
+        they will be more satisfied in their
+        jobs and will be willing to work harder for you. This could lead to higher productivity and better quality production.</string>
+
+    <string name="emp4">Easier to Make Changes
+Businesses regularly have to undergo change if they want to stay at the forefront of their industry. When a business has a labor union to work with, they can partner together to facilitate change easier. When the employer knows that change is required, it can disseminate this information to the leadership of the union and the union can then pass the information along to the employees. When everyone is on the same page, it improves the chances of the company getting through the change.</string>
+
+    <string name="emp5">Simpler Negotiations
+As an employer, one of the advantages of dealing with a labor union is that it simplifies the negotiations process. When you deal with a labor union, you do not have to negotiate with multiple employees. You simply talk to the head of the labor union and the head of the union speaks for all of the workforce. By doing this, you can negotiate faster and more efficiently without having to worry about meeting with many different employees.</string>
+    <string name="emp6">Employee Satisfaction
+Another advantage of dealing with labor unions is that it can improve employee satisfaction. When employees deal with unions, they may be more satisfied because they have a voice to speak to the employer. They get higher wages on average and better benefits packages. When you meet the needs of the employees better, they will be more satisfied in their jobs and will be willing to work harder for you. This could lead to higher productivity and better quality production.</string>
+    <string name="emp7">Less Turnover
+Another advantage of labor unions for organizations is that they lead to less turnover. When you have a workforce that is comprised of labor union members, they will not leave their jobs as frequently. They have to pay dues to be a part of the union, and they typically do not want to lose their position in the organization. When you have lower levels of turnover, it saves your business money in the long run by not having to train as many new employees.</string>
+
+    <string name="problem">Problem</string>
+    <string name="stats">Stats</string>
+    <string name="schemes">Schemes</string>
+    <string name="form">Form</string>
+    <string name="aboutTitle">About</string>
+    <string name="share">Share</string>
+
+    <string name="self1">Expenses to Claim
+The cost of any goods or services you use fully for your business can be deducted from your sales revenue for tax purposes. Where an item is used partially for your business and partly for private purposes, such as your private car or home, you can claim the business proportion of the costs against your business profits. However, you must be able to justify the business proportion with evidence such as the miles driven, or space used by the business.</string>
+    <string name="self2">Capital allowances – if you purchase an item that is expected to last several years, such as a van, you can claim a special deduction known as a capital allowance. From April 2014, the first £500,000 you spend on equipment each year qualifies for 100% capital allowances in the year of purchase. This does not include cars.
+</string>
+    <string name="self3">Loan interest – if you take out a business loan the interest paid on that loan can be deducted from your sales revenue. The loan must be taken out to fund your business, rather than a personal loan or credit card borrowings.</string>
+    <string name="dev1" translatable="false">Rajat Goyal</string>
+    <string name="dev2" translatable="false">Shlok Nangia</string>
+
+
+</resources>

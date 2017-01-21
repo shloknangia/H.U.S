@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.mathemagicians.hus">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".SplashScreenActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".SettingsActivity"
+            android:label="@string/action_settings"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity" />
+        </activity>
+        <activity android:name=".FormEmployee" />
+        <activity android:name=".FormEmployer" />
+        <activity
+            android:name=".CategoryActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".LanguageActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".About" />
+        <activity android:name=".employee.EmployeeActivity" />
+        <activity android:name=".employer.EmployerActivity" />
+        <activity android:name=".SelfOwnedActivity" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".DetailsActivity"></activity>
+    </application>
+
+</manifest>
